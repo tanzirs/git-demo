@@ -2,8 +2,4 @@
 
 This is the first file in this repo. 
 
-## 2nd changes
-I'm changing this file now. 
-
-##3rd changes 
-assklfjals
+## CPP contents
