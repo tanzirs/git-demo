@@ -7,4 +7,5 @@ int main(){
     int p, q; cin >> p >> q; 
     int x = add(p, q);
     cout << x << endl; 
+	cout << "HELLO GITHUB" << endl; 
 }
